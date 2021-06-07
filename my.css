@@ -1,0 +1,27 @@
+body {
+  background: url(image.jpg) no-repeat center center fixed;
+  background-size: cover;
+
+
+  }
+
+
+h1 {
+  font-size: 50px ;
+  color: #8B0000;
+
+}
+p {
+
+      color:white;
+
+}
+.test {
+    position: absolute;
+    width: 800px;
+    height: 3250px;
+    background-color: #151515;
+    border: 3px solid grey;
+    border-radius: 10px
+    padding: 5px;
+}
